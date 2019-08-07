@@ -1,2 +1,5 @@
 *.swp
 __pycache__
+.eggs/
+dist/
+src/ps_by_process.egg-info/
