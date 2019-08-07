@@ -8,7 +8,7 @@ import time
 from influxdb import InfluxDBClient
 
 
-class StatsByProcess:
+class PsByProcess:
     def __init__(self,
                  host='127.0.0.1',
                  port=8086,
@@ -147,5 +147,5 @@ class StatsByProcess:
 
 
 if __name__ == '__main__':
-    StatsByProcess().run()
+    PsByProcess().run()
 

@@ -1,0 +1,7 @@
+Ensure Python3 is installed
+Ensure venv exists with influxdb installed
+Make sure config file works with argparse
+Place config file
+package as deb
+Host deb file
+Install deb in servers
